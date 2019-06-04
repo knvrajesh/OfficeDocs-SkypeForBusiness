@@ -131,6 +131,9 @@ We are working on a solution that will let the user access and reset a PIN witho
 ## Can attendees dial out to international phone numbers when they are in a Skype for Business or Microsoft Teams meeting?
 
 Yes, attendees can dial out internationally and invite other callers into a Skype for Business or Microsoft Teams meeting. See [Dialing out from a Microsoft Teams meeting so other people can join it](dialing-out-from-a-teams-meeting-so-other-people-can-join-it.md) or [Dialing out from a Skype for Business Online meeting so other people can join it](/SkypeForBusiness/audio-conferencing-in-office-365/dialing-out-from-a-meeting-so-other-people-can-join-it).
+
+## for Large Conference calls download grptalk app
+https://www.grptalk.com/how-it-works  
   
 ## How does a Skype for Business or Microsoft Teams user schedule a meeting with Audio Conferencing meeting details?
 
